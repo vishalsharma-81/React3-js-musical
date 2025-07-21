@@ -6,3 +6,4 @@ A beautiful music player built using React and Tailwind CSS. Features play/pause
 - React
 - Tailwind CSS
 - React Icons
+- Link to the page:- https://vishalsharma-81.github.io/React3-js-musical
