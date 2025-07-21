@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React3-js-musical/static/css/main.d667334f.css",
+    "main.js": "/React3-js-musical/static/js/main.33ba2c36.js",
+    "static/js/453.d73baed8.chunk.js": "/React3-js-musical/static/js/453.d73baed8.chunk.js",
+    "static/media/sample.mp3": "/React3-js-musical/static/media/sample.9753d459a2a6325ecb2d.mp3",
+    "static/media/cover.jpg": "/React3-js-musical/static/media/cover.cb080aaf8b8c7733e5f0.jpg",
+    "index.html": "/React3-js-musical/index.html",
+    "main.d667334f.css.map": "/React3-js-musical/static/css/main.d667334f.css.map",
+    "main.33ba2c36.js.map": "/React3-js-musical/static/js/main.33ba2c36.js.map",
+    "453.d73baed8.chunk.js.map": "/React3-js-musical/static/js/453.d73baed8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d667334f.css",
+    "static/js/main.33ba2c36.js"
+  ]
+}
